@@ -1,5 +1,6 @@
 Rencana Website Mahendra
 
 - Website Portofolio Front-End Developer
+  *Figma Desain
 - Website Project Landing Page
 - Website Dashboard Universitas
