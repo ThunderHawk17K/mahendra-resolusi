@@ -2,6 +2,7 @@ Rencana Website Mahendra
 
 - Website Portofolio pribadi Front-End Developer
   *Figma Desain
+  *HTML
 - Website Project Landing Page
 - Website Dashboard Universitas
 - Website Portofolio pribadi Full-Stack Developer
